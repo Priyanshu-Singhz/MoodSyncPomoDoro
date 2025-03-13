@@ -1,6 +1,5 @@
 # MoodSyncPomoDoro
 MoodSync is a comprehensive mood tracking and focus management application that works seamlessly between your iPhone and Apple Watch. Stay in tune with your emotions while maintaining productivity through an intuitive interface and real-time synchronization.
-![MoodSync App Banner](screenshots/banner.png)
 
 ## Features
 ### 🎯 Mood Tracking
@@ -33,17 +32,17 @@ MoodSync is a comprehensive mood tracking and focus management application that 
 ### iPhone App
 <table>
   <tr>
-    <td><img src="screenshots/mood_screen.png" width="200" alt="Mood Screen"/></td>
-    <td><img src="screenshots/focus_screen.png" width="200" alt="Focus Screen"/></td>
-    <td><img src="screenshots/settings_screen.png" width="200" alt="Settings Screen"/></td>
+    <td><img src="MoodSyncUI/ScreenShots/path_to_mood_screen.png" width="200" alt="Mood Screen"/></td>
+    <td><img src="MoodSyncUI/ScreenShots/path_to_focus_screen.png" width="200" alt="Focus Screen"/></td>
+    <td><img src="MoodSyncUI/ScreenShots/path_to_settings_screen.png" width="200" alt="Settings Screen"/></td>
   </tr>
 </table>
 
 ### Apple Watch App
 <table>
   <tr>
-    <td><img src="screenshots/watch_mood.png" width="150" alt="Watch Mood Selection"/></td>
-    <td><img src="screenshots/watch_settings.png" width="150" alt="Watch Settings"/></td>
+    <td><img src="MoodSyncUI/ScreenShots/path_to_watch_mood.png" width="150" alt="Watch Mood Selection"/></td>
+    <td><img src="MoodSyncUI/ScreenShots/path_to_watch_settings.png" width="150" alt="Watch Settings"/></td>
   </tr>
 </table>
 
@@ -79,7 +78,7 @@ open MoodSync.xcodeproj
 3. Build and run the application on your device or simulator
 
 ## Demo Video
-[![MoodSync Demo](screenshots/demo_thumbnail.png)](screenshots/demo.mov)
+<video src="MoodSyncUI/ScreenShots/demo.mov" width="640" height="360" controls></video>
 
 ## Architecture
 The app follows a clean architecture pattern with:
@@ -95,5 +94,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Contact
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
-Project Link: [https://github.com/yourusername/MoodSync](https://github.com/yourusername/MoodSync)
+Your Name - ([Priyanshu Singh](https://github.com/Priyanshu-Singhz))
+Project Link: ([Link](https://github.com/Priyanshu-Singhz/MoodSyncPomoDoro))
