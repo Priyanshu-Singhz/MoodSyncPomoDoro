@@ -78,7 +78,11 @@ open MoodSync.xcodeproj
 3. Build and run the application on your device or simulator
 
 ## Demo Video
-<video src="MoodSyncUI/ScreenShots/demo.mov" width="640" height="360" controls></video>
+
+
+https://github.com/user-attachments/assets/af22f4d6-dad8-45bf-97fd-2027f941ed3a
+
+
 
 ## Architecture
 The app follows a clean architecture pattern with:
